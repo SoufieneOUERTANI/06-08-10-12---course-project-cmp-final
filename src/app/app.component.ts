@@ -6,4 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  elementActivated : string = null;
+
+  elementClick(elementSignal : string){
+    this.elementActivated = elementSignal;
+  }
 }

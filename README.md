@@ -35,3 +35,8 @@ Sur un click sur un élément de la liste de gauche, afficher le détail de cet 
 160. Adding Navigation to the App - 
 
 161. Marking Active Routes
+
+
+## 162. Fixing Page Reload Issues
+
+    href="#" => style="cursor: pointer;"

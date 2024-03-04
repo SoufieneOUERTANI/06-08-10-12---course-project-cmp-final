@@ -5,9 +5,9 @@ import { Component, EventEmitter, Output } from '@angular/core';
   templateUrl: './header.component.html'
 })
 export class HeaderComponent {
-  @Output() elementSignal = new EventEmitter<string>(); 
+  // @Output() elementSignal = new EventEmitter<string>(); 
 
-  onSelected(element : string) {
-      this.elementSignal.emit(element);
-  }
+  // onSelected(element : string) {
+  //     this.elementSignal.emit(element);
+  // }
 }

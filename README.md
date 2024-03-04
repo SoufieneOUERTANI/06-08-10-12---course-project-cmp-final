@@ -28,3 +28,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Exercice
 Sur un click sur un élément de la liste de gauche, afficher le détail de cet élement à droite 
+
+### 
+159. Setting Up Routes - 
+
+160. Adding Navigation to the App - 
+
+161. Marking Active Routes
